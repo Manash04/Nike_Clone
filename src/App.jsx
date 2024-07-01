@@ -8,6 +8,7 @@ import Subscribe from "./sections/Subscribe";
 import SuperQuality from "./sections/SuperQuality";
 import Nav from "./components/Nav";
 
+
 const App = () => {
   return (
     <main className='relative'>
